@@ -1,0 +1,11 @@
+# Environtment
+venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.buildozer/
+bin/
+*.apk
